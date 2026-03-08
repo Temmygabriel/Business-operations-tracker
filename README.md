@@ -143,7 +143,6 @@ EarPods · Button Phone · Memory Card · Charger · Tripod Stand · Selfie Stic
 
 ## 👤 Author
 
-Built by [TemmyGabriel] as a portfolio project demonstrating Excel-based business intelligence and operations system design.
+Built by TemmyGabriel as a portfolio project demonstrating Excel-based business intelligence and operations system design.
 
-- LinkedIn: [your-linkedin-url]
-- GitHub: [your-github-url]
+
